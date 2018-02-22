@@ -1,0 +1,15 @@
+Plone
+plone.namedfile
+collective.z3cform.datagridfield
+plone.api
+Products.ATVocabularyManager
+plone.app.versioningbehavior
+plone.app.workflowmanager
+plone.app.ldap
+cs.htmlmailer
+collective.deletepermission
+tablib
+python-docx
+zc.dict
+collective.monkeypatcher
+five.pt
